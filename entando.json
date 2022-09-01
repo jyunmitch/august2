@@ -1,0 +1,23 @@
+{
+    "microservices": [],
+    "microfrontends": [
+        {
+            "name": "angular-widget",
+            "customElement": "angular-widget",
+            "stack": "react",
+            "type": "widget",
+            "group": "free",
+            "publicFolder": "public",
+            "titles": {
+                "en": "angular-widget",
+                "it": "angular-widget",
+            "buildFolder": "dist/angular-widget"
+            }
+        }
+    ],
+    "svc": [],
+    "name": "august2",
+    "version": "0.0.1",
+    "description": "august2 description",
+    "type": "bundle"
+}
